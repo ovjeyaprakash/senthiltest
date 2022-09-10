@@ -1,4 +1,2 @@
 echo "I'm git"
-echo "triggered from git webhook1"
-
-
+echo "triggered from git webhook windows"
